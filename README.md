@@ -1,6 +1,6 @@
 #### This is our CTIS 255 Term Project.
 
-We created a puzze game, it contains:
+We created a puzze game it contains:
 
 1. Image Selection
 1. Shuffling Image
